@@ -1,3 +1,4 @@
-# this is my first git tutorial practice
+# Let's give a try
+
 In Sha Allah I will learn this
-May Allah help me. Ameen
+May Allah help me. Ameen Sum Ameen
